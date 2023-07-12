@@ -21,5 +21,5 @@ https://bell-sw.com/pages/downloads/
 ## Instruções para executar os programas caso continue com erro (no .jar principalmente)
 Se você ainda estiver tendo problemas para executar os programas, pode usar o software jarfix para corrigir o diretório do Java. No entanto, se você não tiver acesso administrativo, precisará abrir o CMD ou PowerShell na pasta do jarfix e digitar ".\jarfix.exe \u" para executá-lo apenas no usuário local.
 
-Link direto do jarfix:
+Link direto do download jarfix:
 https://johann.loefflmann.net/downloads/jarfix.exe
